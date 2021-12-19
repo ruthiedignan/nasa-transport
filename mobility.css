@@ -1,0 +1,168 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.navbar{
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #122620;
+  padding: 1%;
+}
+
+.navhead{
+  color: white;
+  font-size: 200%;
+  padding: 1%;
+}
+
+.ul{
+
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 1%;
+}
+
+.li, a{
+  text-decoration: none;
+  color: white;
+  
+  padding: 1%;
+}
+
+body{
+
+  background-color: #F4EBD0;
+}
+
+.box{
+
+  width: 100%;
+  background-color: #D6AD60;
+  padding-bottom: 3%;
+  
+  
+  
+  
+}
+
+.box h1{
+  padding: 2%;
+  padding-bottom: 0.5%;
+  text-align: center;
+  font-size: 200%;
+}
+
+.box p{
+
+
+  text-align: center;
+
+}
+
+.road{
+padding: 2%;
+background-color: grey;
+display: flex;
+justify-content: space-evenly; }
+
+
+.dash{ 
+
+padding: 0.5%;
+padding-right: 3%;
+background-color: white;
+
+
+}
+
+.conclusion{
+  width: 66.67%;
+  margin-left: 16.67%;
+  margin-right: 16.67%;
+}
+
+.conclusion p{
+  margin-top: 2.5%;
+}
+
+.graphs1{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+iframe{
+  margin-top: 2%;
+  
+  
+}
+
+.interactives{
+  margin: 5%;
+  margin-top: 0%;
+}
+
+
+.texts{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.para{
+  padding: 1%;
+  width: 32%;
+}
+
+.para1{
+  padding: 1%;
+  width: 24%;
+}
+
+.img1{
+  padding: 0;
+  margin: 0;
+  width: 32%;
+  object-fit: cover;
+}
+
+.img2{
+  padding: 0;
+  margin: 0;
+  width: 24%;
+  object-fit: cover;
+}
+
+.img3{
+  padding: 0;
+  margin: 0;
+  width: 48%;
+  object-fit: cover;
+}
+
+.halfn{
+  width: 66.7%;
+  margin-left: 16.67%;
+  margin-right: 16.67%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
+}
+
+.footer{
+  bottom: 0;
+  background-color: #122620;
+  padding: 1%;
+  margin-top: 4.5%;
+  color: white;
+  text-align: center;
+  
+}
+.ansh{
+  text-align: center;
+}
