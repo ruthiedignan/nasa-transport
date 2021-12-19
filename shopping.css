@@ -1,0 +1,117 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+.navbar{
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #122620;
+  padding: 1%;
+}
+
+.navhead{
+  color: white;
+  font-size: 200%;
+  padding: 1%;
+}
+
+.ul{
+
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 1%;
+}
+
+.li, a{
+  text-decoration: none;
+  color: white;
+  
+  padding: 1%;
+}
+
+body{
+
+  background-color: #F4EBD0;
+}
+
+.box{
+
+  width: 100%;
+  background-color: #D6AD60;
+  padding-bottom: 3%;
+  
+  
+  
+  
+}
+
+.box h1{
+  padding: 2%;
+  padding-bottom: 0.5%;
+  text-align: center;
+  font-size: 200%;
+}
+
+.box p{
+
+
+  text-align: center;
+
+}
+
+.road{
+padding: 2%;
+background-color: grey;
+display: flex;
+justify-content: space-evenly; }
+
+
+.dash{ 
+
+padding: 0.5%;
+padding-right: 3%;
+background-color: white;
+
+
+}
+
+.conclusion{
+  width: 66.67%;
+  margin-left: 16.67%;
+  margin-right: 16.67%;
+}
+
+.conclusion p{
+  margin-top: 2.5%;
+}
+
+.graphs{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2%;
+}
+
+iframe{
+  margin-top: 2%;
+}
+
+.footer{
+  bottom: 0;
+  background-color: #122620;
+  padding: 1%;
+  margin-top: 4.5%;
+  color: white;
+  text-align: center;
+  
+}
+
+.ansh{
+  text-align: center;
+}
