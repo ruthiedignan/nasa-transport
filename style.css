@@ -1,0 +1,137 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.navbar{
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #122620;
+  padding: 1%;
+}
+
+.navhead{
+  color: white;
+  font-size: 200%;
+  padding: 1%;
+}
+
+.ul{
+
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 1%;
+}
+
+.li, a{
+  text-decoration: none;
+  color: white;
+  
+  padding: 1%;
+}
+
+body{
+
+  background-color: #F4EBD0;
+}
+
+.box{
+
+  width: 100%;
+  background-color: #D6AD60;
+  padding-bottom: 3%;
+  
+  
+  
+  
+}
+
+.box h1{
+  padding: 2%;
+  padding-bottom: 0.5%;
+  text-align: center;
+  font-size: 200%;
+}
+
+.box h2{
+
+  font-size: 80%;
+  text-align: center;
+
+}
+
+.road{
+padding: 2%;
+background-color: grey;
+display: flex;
+justify-content: space-evenly; }
+
+
+.dash{ 
+
+padding: 0.5%;
+padding-right: 3%;
+background-color: white;
+
+
+}
+
+
+.about{
+
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+
+.time{
+
+  background-color: #B68D40;
+  padding: 6%;
+  border-radius: 5%;
+}
+
+
+.clear{
+  clear:both;
+}
+
+h4{
+  font-size: 150%;
+  text-align: center;
+  padding: 3%;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.about p{
+
+  font-size: 250%;
+  margin-top: 5%;
+}
+
+.footer{
+  bottom: 0;
+  background-color: #122620;
+  padding: 1%;
+  margin-top: 7%;
+  color: white;
+  text-align: center;
+  
+}
